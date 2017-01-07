@@ -4,6 +4,7 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
+import android.app.Application;
 import android.content.Intent;
 import android.content.pm.ResolveInfo;
 import android.graphics.Color;
@@ -58,7 +59,8 @@ public class LoaderActivity extends MyActivity {
 
 		site = getIntent().getParcelableExtra("_site");
 
-		if (!(getApplication() instanceof MyApplication)) {
+		Application app = getApplication();
+		if (!(app instanceof MyApplication)) {
 			setFail(101, null, false, true); // #101
 			return;
 		}

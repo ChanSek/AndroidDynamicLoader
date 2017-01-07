@@ -77,13 +77,13 @@ public class HomeActivity extends MyActivity {
 						.toString();
 				startActivity(url);
 			} else if (v.getId() == R.id.go_helloworld) {
-				siteUrl.setText("https://raw.github.com/mmin18/AndroidDynamicLoader/master/site/helloworld/site.txt");
+				siteUrl.setText("https://raw.github.com/ChanSek/AndroidDynamicLoader/master/site/helloworld/site.txt");
 				findViewById(R.id.go).performClick();
 			} else if (v.getId() == R.id.go_bitmapfun) {
-				siteUrl.setText("https://raw.github.com/mmin18/AndroidDynamicLoader/master/site/bitmapfun/site.txt");
+				siteUrl.setText("https://raw.github.com/ChanSek/AndroidDynamicLoader/master/site/bitmapfun/site.txt");
 				findViewById(R.id.go).performClick();
 			} else if (v.getId() == R.id.go_colorphun) {
-				siteUrl.setText("https://raw.github.com/mmin18/AndroidDynamicLoader/master/site/colorphun/site.txt");
+				siteUrl.setText("https://raw.github.com/ChanSek/AndroidDynamicLoader/master/site/colorphun/site.txt");
 				findViewById(R.id.go).performClick();
 			}
 		}
