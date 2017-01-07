@@ -2,7 +2,7 @@
   "id": "colorphun",
   "files": [{
     "id": "colorphun",
-    "md5": "69d3d81fa8cc5f05f1daab16dae89f4c",
+    "md5": "b7d5ec323ea83e616d6ebfb93eac697d",
     "url": "https://raw.github.com/ChanSek/AndroidDynamicLoader/master/site/colorphun/colorphun.apk"
   }],
   "fragments": [
