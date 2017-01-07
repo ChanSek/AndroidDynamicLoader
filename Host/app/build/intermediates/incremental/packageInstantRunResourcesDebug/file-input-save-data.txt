@@ -1,0 +1,12 @@
+#Internal package file, do not edit.
+#Sat Jan 07 11:29:34 IST 2017
+1.base=D\:\\Programs\\Chanse Games\\open-source-games\\AndroidDynamicLoader\\Host\\app\\build\\intermediates\\res\\resources-debug.ap_
+1.file=D\:\\Programs\\Chanse Games\\open-source-games\\AndroidDynamicLoader\\Host\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+2.base=D\:\\Programs\\Chanse Games\\open-source-games\\AndroidDynamicLoader\\Host\\app\\build\\intermediates\\res\\resources-debug.ap_
+2.set=ANDROID_RESOURCE
+2.file=D\:\\Programs\\Chanse Games\\open-source-games\\AndroidDynamicLoader\\Host\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+count=3
+1.set=ANDROID_RESOURCE
+0.set=ANDROID_RESOURCE
+0.base=D\:\\Programs\\Chanse Games\\open-source-games\\AndroidDynamicLoader\\Host\\app\\build\\intermediates\\res\\resources-debug.ap_
+0.file=D\:\\Programs\\Chanse Games\\open-source-games\\AndroidDynamicLoader\\Host\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\activity_home.xml

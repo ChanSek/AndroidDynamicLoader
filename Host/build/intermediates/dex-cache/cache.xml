@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\Programs\Chanse Games\open-source-games\AndroidDynamicLoader\Host\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f75fbb2547aa7bc703dec677a6d4b173f96cbe92">
+        <dex dex="D:\Programs\Chanse Games\open-source-games\AndroidDynamicLoader\Host\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_b43b9a61f7107dd7706310fa68d38c01c6d0af14\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Programs\Chanse Games\open-source-games\AndroidDynamicLoader-Studio\Host\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9986964da94e04897ed682b7f66101a1c852b4d8">
+        <dex dex="D:\Programs\Chanse Games\open-source-games\AndroidDynamicLoader-Studio\Host\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_01b6275bdf79608dae2c489bc197b3c438ad8aa5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Programs\Chanse Games\open-source-games\AndroidDynamicLoader-Studio\Host\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="055589990b72d98b048be7115475765ea17e5e47">
+        <dex dex="D:\Programs\Chanse Games\open-source-games\AndroidDynamicLoader-Studio\Host\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_fc47c18b247f8c6de32256005ae903cf067c145a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Programs\Chanse Games\open-source-games\AndroidDynamicLoader\Host\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="527e43c663b157071cccd5386abee5bb491e44ec">
+        <dex dex="D:\Programs\Chanse Games\open-source-games\AndroidDynamicLoader\Host\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_685bedcd9346a48315e79df9328bce0312812f59\classes.dex" />
+    </item>
+
+</items>

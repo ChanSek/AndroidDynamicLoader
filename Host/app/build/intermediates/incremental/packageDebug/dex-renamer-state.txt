@@ -1,0 +1,7 @@
+#Sat Jan 07 11:26:22 IST 2017
+base.0=D\:\\Programs\\Chanse Games\\open-source-games\\AndroidDynamicLoader-Studio\\Host\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_01b6275bdf79608dae2c489bc197b3c438ad8aa5
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=D\:\\Programs\\Chanse Games\\open-source-games\\AndroidDynamicLoader-Studio\\Host\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_fc47c18b247f8c6de32256005ae903cf067c145a\\classes.dex
+base.1=D\:\\Programs\\Chanse Games\\open-source-games\\AndroidDynamicLoader-Studio\\Host\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_fc47c18b247f8c6de32256005ae903cf067c145a
+file.0=D\:\\Programs\\Chanse Games\\open-source-games\\AndroidDynamicLoader-Studio\\Host\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_01b6275bdf79608dae2c489bc197b3c438ad8aa5\\classes.dex
